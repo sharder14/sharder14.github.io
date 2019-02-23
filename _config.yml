@@ -1,10 +1,11 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Harder Data Science
+author: 
+email: harderdatascience@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to Harder Data Science. This site serves as a data science 
+  portfolio for both Shane and Brett Harder. You will find an assortment of 
+  articles and blog posts as well as implimented web apps that range from 
+  data science and machine learning to DevOps and web development.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -15,9 +16,9 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
-    rss: rss
+    #twitter: jekyllrb
+    #github:  jekyll
+    #rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
