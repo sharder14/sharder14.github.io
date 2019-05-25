@@ -24,8 +24,10 @@ You can find the source code for Jekyll at GitHub:
 </h2>
 <p>About Shane...
 </p>
+| <a href="https://github.com/sharder14">Github </a> | <a href="https://www.linkedin.com/in/shane-harder-662201132">LinkedIn </a> | <a href="https://medium.com/@sharder14">Medium </a> |
 
 <h2>Brett Harder
 </h2>
 <p>About Brett...
 </p>
+<a href="https://github.com/brettharder">Github</a>

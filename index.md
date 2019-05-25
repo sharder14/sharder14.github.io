@@ -7,3 +7,12 @@
 #
 layout: home
 ---
+
+
+<h2>Welcome to Harder Data Science!</h2>
+
+<h3>Recent posts:</h3>
+<ul>
+    <li>Coming Soon...
+    </li>
+</ul>

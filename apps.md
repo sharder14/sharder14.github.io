@@ -5,4 +5,4 @@ permalink: /apps/
 order: 1
 ---
 
-This is gonna show all the apps links!
+Links to apps... coming soon.
